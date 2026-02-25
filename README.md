@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I'm currently learning aboyt A.I on the Universidad Panamericana Bonaterra<br>💻 I'm currently working on projects where I use Ruby on Rails to make web applications<br>🎖️ Top 35 mexico on ICPC<br>🎮 I like to play videogames, and do coding exercises
+📖 I'm currently learning aboyt A.I on the Universidad Panamericana Bonaterra<br>💻 I'm currently working on projects where I use Ruby on Rails to make web applications<br>🎖️ Top 45 mexico on ICPC<br>🎮 I like to play videogames, and do coding exercises
 
 
 ## 🌐 Socials:
